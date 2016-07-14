@@ -1,2 +1,0 @@
-# MorseCodeTrainer
-CES Lab Project
